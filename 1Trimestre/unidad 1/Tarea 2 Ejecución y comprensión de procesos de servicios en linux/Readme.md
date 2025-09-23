@@ -1,4 +1,3 @@
-# <img src=../../../../../images/computer.png width="40"> Code, Learn & Practice  
 **Procesos y Servicios (modo alumno, sin root) — Trabajo en `$HOME/dam` con *user units* de systemd**
 
 > **Importante:** Esta guía está adaptada para **usuarios sin privilegios de root**.  
