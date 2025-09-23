@@ -25,6 +25,12 @@ systemctl --user status --no-pager | head -n5
 **Pega salida aquí:**
 
 ```text
+  systemd 255 (255.4-1ubuntu8.6)
+● a108pc18
+    State: running
+    Units: 261 loaded (incl. loaded aliases)
+     Jobs: 0 queued
+   Failed: 0 units
 
 ```
 
