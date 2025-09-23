@@ -48,7 +48,9 @@ systemctl --user status --no-pager | head -n5
 
 **Respuesta:**  
 
-_Fuentes:_
+Systemd es un sistema de inicialización moderno que reemplaza al clásico SysV init, está diseñado para superar las limitaciones de los sistemas basados en scripts mediante un enfoque paralelo y modular.
+
+_Fuentes:_ https://www.maxizamorano.com/entrada/19/proceso-de-arranque-en-linux-systemd-vs-sysv-init
 
 2) **Servicio** vs **proceso** (ejemplos).  
 
