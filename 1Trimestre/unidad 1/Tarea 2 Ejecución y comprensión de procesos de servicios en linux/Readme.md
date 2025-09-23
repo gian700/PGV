@@ -56,7 +56,11 @@ _Fuentes:_ https://www.maxizamorano.com/entrada/19/proceso-de-arranque-en-linux-
 
 **Respuesta:**  
 
-_Fuentes:_
+El servicio es un programa que se ejecuta continuamente en segundo plano.
+
+Un proceso es un programa que se está ejecutando y al que se le asigna un PID, un ID de proceso.
+
+_Fuentes:_ https://superuser-com.translate.goog/questions/1235647/what-is-the-difference-between-a-service-and-a-process?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=rq
 
 3) ¿Qué son los **cgroups** y para qué sirven?  
 
