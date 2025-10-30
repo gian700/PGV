@@ -1,0 +1,9 @@
+org/formacion/procesos/ProcesosServiciosApplication.class
+org/formacion/procesos/services/ComandoServicePs.class
+org/formacion/procesos/repositories/FileRepository.class
+org/formacion/procesos/repositories/interfaces/CrudInterface.class
+org/formacion/procesos/domain/ProcessType.class
+org/formacion/procesos/Procesos.class
+org/formacion/procesos/services/abstractas/ComandoServicesAbstractas.class
+org/formacion/procesos/services/ComandoServicesLS.class
+org/formacion/procesos/controllers/RunnerController.class

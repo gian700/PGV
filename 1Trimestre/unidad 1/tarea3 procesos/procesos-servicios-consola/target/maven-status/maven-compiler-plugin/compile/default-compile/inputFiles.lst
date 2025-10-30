@@ -1,0 +1,11 @@
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/services/abstractas/ComandoServicesAbstractas.java
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/services/ComandoServicesLsof.java
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/services/ComandoServicesTop.java
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/Procesos.java
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/repositories/FileRepository.java
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/domain/ProcessType.java
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/controllers/RunnerController.java
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/services/ComandoServicesLS.java
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/ProcesosServiciosApplication.java
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/services/ComandoServicePs.java
+/home/dam/Escritorio/nueva tarea yujuuu/procesos-servicios-consola/src/main/java/org/formacion/procesos/repositories/interfaces/CrudInterface.java
